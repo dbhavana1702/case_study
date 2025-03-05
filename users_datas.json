@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "email": "george.bluth@reqres.in",
+        "name": "George Bluth"
+    },
+    {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "name": "Janet Weaver"
+    },
+    {
+        "id": 3,
+        "email": "emma.wong@reqres.in",
+        "name": "Emma Wong"
+    },
+    {
+        "id": 4,
+        "email": "eve.holt@reqres.in",
+        "name": "Eve Holt"
+    },
+    {
+        "id": 5,
+        "email": "charles.morris@reqres.in",
+        "name": "Charles Morris"
+    },
+    {
+        "id": 6,
+        "email": "tracey.ramos@reqres.in",
+        "name": "Tracey Ramos"
+    }
+]
